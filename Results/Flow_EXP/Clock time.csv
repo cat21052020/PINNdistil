@@ -1,4 +1,0 @@
-Question,Number,Module,Training Time,Student Training Time
-Flow,EXP,PINN,6073.3190813064575,0.0
-Flow,EXP,PINN_post_flow,10769.490404605865,0.0
-Flow,EXP,PsiNN_flow,12884.057444810867,0.0
